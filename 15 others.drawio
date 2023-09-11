@@ -1,0 +1,221 @@
+<mxfile host="app.diagrams.net" modified="2023-04-14T21:39:58.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WuNTnnChQme2CQ_Qzlsu" version="21.1.8" type="dropbox" pages="2">
+  <diagram name="Page-1" id="rSZHTWB0PvhHjaxo6C8T">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-2" value="SIGN guidelines 2008 - cancer&lt;br&gt;&lt;div&gt;• breakthrough dose of morphine&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; is one-sixth the daily dose&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• laxatives for all pts on opioids&lt;/div&gt;&lt;div&gt;• in renal impairment&lt;/div&gt;&lt;div&gt;&amp;nbsp; - in mild-mod: oxycodone pref&lt;/div&gt;&lt;div&gt;&amp;nbsp; - in severe: alfentanil, buprenor-&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; phine, fentanyl preferred&lt;/div&gt;&lt;div&gt;• for metastatic bone pain&lt;/div&gt;&lt;div&gt;&amp;nbsp; - options: strong opioids,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; bisphosphonates, radiotherapy&lt;/div&gt;&lt;div&gt;&amp;nbsp; - maybe denosumab&lt;/div&gt;&lt;div&gt;&amp;nbsp; - consider ref to oncologist&lt;/div&gt;&lt;div&gt;• when ↑dose of opioids, incr by&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; 30-50%&lt;/div&gt;&lt;div&gt;&amp;nbsp; ↳ &lt;b&gt;1.5x&lt;/b&gt; the dose for both&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;regular&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and breakthrough&lt;/span&gt;&lt;/div&gt;&lt;div&gt;• SE: nausea and drowsiness&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tend to be transient; constip&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; usually persistent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="190" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-3" value="&lt;b&gt;Conversion between opioids&lt;/b&gt;&lt;br&gt;&lt;i&gt;Oral preparations&lt;/i&gt;&lt;br&gt;• codeine → morphine = ÷10&lt;br&gt;• tramadol → morphine = ÷10&lt;br&gt;• morphine → oxycodone = ÷2&lt;br&gt;&lt;br&gt;&lt;i&gt;Transdermal patches&lt;/i&gt;&lt;br&gt;• 12 mcg fentanyl patch&lt;br&gt;&amp;nbsp; ≈ 30 mg morphine PO&lt;br&gt;• 10 mcg buprenorphine patch&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; ≈ 24 mg morphine PO&lt;br&gt;&lt;br&gt;&lt;i&gt;Subcutaneous delivery&lt;/i&gt;&lt;br&gt;• PO → SQ morphine = ÷2&lt;br&gt;• PO morphine &lt;br&gt;&amp;nbsp; → SQ diamorphine = ÷3&lt;br&gt;• PO oxycodone&lt;br&gt;&amp;nbsp; → SQ diamorphine = ÷1.5" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="40" y="375" width="190" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-18" value="Pain prescribing" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#182230;fontColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-27" value="" style="group;fontStyle=1" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1085" y="40" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-19" value="x" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#345e6a;fontColor=#FFFFFF;strokeColor=#345e6a;" parent="EOPuhlhTCJ4tLhIr3qBP-27" vertex="1">
+          <mxGeometry y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-20" value="x" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#a63a52;fontColor=#FFFFFF;strokeColor=#A63A52;" parent="EOPuhlhTCJ4tLhIr3qBP-27" vertex="1">
+          <mxGeometry y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-21" value="x" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#ea6c81;fontColor=#FFFFFF;strokeColor=#EA6C81;" parent="EOPuhlhTCJ4tLhIr3qBP-27" vertex="1">
+          <mxGeometry y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-22" value="x" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#f39597;fontColor=#000000;strokeColor=#F39597;" parent="EOPuhlhTCJ4tLhIr3qBP-27" vertex="1">
+          <mxGeometry y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-23" value="x" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#e2782c;fontColor=#000000;strokeColor=#E2782C;" parent="EOPuhlhTCJ4tLhIr3qBP-27" vertex="1">
+          <mxGeometry y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-24" value="x" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#f7a54d;fontColor=#000000;strokeColor=#F7A54D;" parent="EOPuhlhTCJ4tLhIr3qBP-27" vertex="1">
+          <mxGeometry y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-25" value="x" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#f6e488;fontColor=#000000;strokeColor=#F6E488;" parent="EOPuhlhTCJ4tLhIr3qBP-27" vertex="1">
+          <mxGeometry y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-26" value="x" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#182230;fontColor=#FFFFFF;strokeColor=#000000;" parent="EOPuhlhTCJ4tLhIr3qBP-27" vertex="1">
+          <mxGeometry width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-37" value="Hiccups" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#345e6a;fontColor=#FFFFFF;strokeColor=#345E6A;" parent="1" vertex="1">
+          <mxGeometry x="260" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-38" value="☝🏻 Chlorpromazine&lt;br&gt;✌🏻 Haloperidol, gabapentin&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;± Dexamethasone, esp if &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;hepatic lesions" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#345E6A;" parent="1" vertex="1">
+          <mxGeometry x="260" y="70" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-40" value="☝🏻 Haloperidol&lt;br&gt;✌🏻 Chlorperazine, &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;levomepromazine" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#A63A52;" parent="1" vertex="1">
+          <mxGeometry x="260" y="185" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-41" value="Agitation and confusion" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#a63a52;fontColor=#FFFFFF;strokeColor=#A63A52;" parent="1" vertex="1">
+          <mxGeometry x="260" y="155" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-43" value="• Educate family that the pt is &lt;br&gt;&amp;nbsp; likely not troubled by secretions&lt;br&gt;☝🏻 Buscopan&lt;br&gt;✌🏻 Glycopyrronium" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#EA6C81;" parent="1" vertex="1">
+          <mxGeometry x="260" y="285" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-45" value="Secretions" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#ea6c81;fontColor=#FFFFFF;strokeColor=#EA6C81;" parent="1" vertex="1">
+          <mxGeometry x="260" y="255" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-46" value="Nausea and vomiting" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#f39597;fontColor=#000000;strokeColor=#F39597;" parent="1" vertex="1">
+          <mxGeometry x="260" y="370" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-47" value="• &lt;span style=&quot;background-color: rgb(243, 192, 192);&quot;&gt;↓gastric motility&lt;/span&gt;: &lt;br&gt;&amp;nbsp; metoclopramide, domperidone&lt;br&gt;• &lt;span style=&quot;background-color: rgb(243, 192, 192);&quot;&gt;chemically mediated&lt;/span&gt;:&lt;br&gt;&amp;nbsp; ondansetron, haloperidol, &lt;br&gt;&amp;nbsp; levomepromazine&lt;br&gt;• &lt;span style=&quot;background-color: rgb(243, 192, 192);&quot;&gt;visceral/serosal&lt;/span&gt;: cyclizine, &lt;br&gt;&amp;nbsp; levopromazine ± buscopan&lt;br&gt;• &lt;span style=&quot;background-color: rgb(243, 192, 192);&quot;&gt;↑ICP&lt;/span&gt;: cyclizine, dexamethsaone &lt;br&gt;&amp;nbsp; ± radiotherapy if 2/2 lesion&lt;br&gt;• &lt;span style=&quot;background-color: rgb(247, 195, 195);&quot;&gt;vestibular&lt;/span&gt;: cyclizine, &lt;br&gt;&amp;nbsp; metoclopramide, &lt;br&gt;&amp;nbsp; prochlorperazine, atypical &lt;br&gt;&amp;nbsp; antipsychotics (olanzapine)&lt;br&gt;• &lt;span style=&quot;background-color: rgb(247, 195, 195);&quot;&gt;cortical&lt;/span&gt;, eg anticipatory:&amp;nbsp; &lt;br&gt;&amp;nbsp; lorazepam, cyclizine" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#F39597;" parent="1" vertex="1">
+          <mxGeometry x="260" y="400" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EOPuhlhTCJ4tLhIr3qBP-50" value="? med school: 1.5x the dose when increasing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#000000;spacing=0;spacingTop=-5;" parent="1" vertex="1">
+          <mxGeometry x="90" y="715" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O0D1KAJGx3-6iFoYAiep" name="STI Hx">
+    <mxGraphModel dx="437" dy="623" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-52" value="" style="endArrow=none;html=1;rounded=0;startArrow=blockThin;startFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mRx_FaWrqU_GG4FjZYKh-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="800" as="sourcePoint" />
+            <mxPoint x="460" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-48" value="" style="endArrow=none;html=1;rounded=0;startArrow=blockThin;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="740" as="sourcePoint" />
+            <mxPoint x="80" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-49" value="or" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mRx_FaWrqU_GG4FjZYKh-48">
+          <mxGeometry x="-0.1268" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D-7gyUB85ogMLRCZY0Sn-1" value="&lt;b&gt;&lt;u&gt;Pain&lt;/u&gt;&lt;/b&gt;: SOCRATES" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="145" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-1" value="Sexual history" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#182230;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-2" value="People with a vagina" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="115" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="mRx_FaWrqU_GG4FjZYKh-3" target="mRx_FaWrqU_GG4FjZYKh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-3" value="&lt;b&gt;&lt;u&gt;Vaginal discharge&lt;/u&gt;&lt;/b&gt;&lt;br&gt;• Volume&lt;br&gt;• Colour&lt;br&gt;• Consistency&lt;br&gt;• Smell" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="165" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-4" value="&lt;b&gt;&lt;u&gt;Vaginal bleeding&lt;/u&gt;&lt;/b&gt;&lt;br&gt;• Post-coital?&lt;br&gt;• Intermenstrual bleeding" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="245" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-5" value="&lt;b&gt;&lt;u&gt;Dysuria&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;• Pain or stinging when &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; passing urine?&lt;br&gt;• Passing urine more often?" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="295" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.893;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="mRx_FaWrqU_GG4FjZYKh-6" target="mRx_FaWrqU_GG4FjZYKh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-6" value="&lt;b&gt;&lt;u&gt;Itching/soreness&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="345" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-9" value="• Gonorrhea and chlamydia: &lt;br&gt;&amp;nbsp; abnormal vaginal discharge&lt;br&gt;• Bacterial vaginosis: offensive, &lt;br&gt;&amp;nbsp; fishy-smelling&lt;br&gt;• Trichomonas: yellow frothy dc&lt;br&gt;• Candidiasis: cottage cheese" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="155" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-10" value="• Candida&lt;br&gt;• Genital herpes&lt;br&gt;• Chlamydia&lt;br&gt;• Gonorrhea&lt;br&gt;• Vaginal atrophy&lt;br&gt;• Lichen sclerosis" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="275" width="105" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-11" value="&lt;u style=&quot;font-weight: bold;&quot;&gt;Genital skin changes&lt;/u&gt;&lt;br&gt;• Blisters/ulcers → herpes&lt;br&gt;• Non-painful lesions&amp;nbsp;→ warts" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="365" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-12" value="&lt;u style=&quot;font-weight: bold;&quot;&gt;Menstrual history&lt;/u&gt;&lt;br&gt;• LMP?&amp;nbsp;&lt;br&gt;• Duration, frequency, blood flow" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="415" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-17" value="&lt;b&gt;&lt;u&gt;Pain&lt;/u&gt;&lt;/b&gt;: SOCRATES" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="505" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-18" value="People with a penis" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="475" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="mRx_FaWrqU_GG4FjZYKh-20" target="mRx_FaWrqU_GG4FjZYKh-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-20" value="&lt;b&gt;&lt;u&gt;Urethral discharge&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="625" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-22" value="&lt;b&gt;&lt;u&gt;Dysuria&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;• Pain or stinging when &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; passing urine?&lt;br&gt;• Passing urine more often?" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="645" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.013;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="mRx_FaWrqU_GG4FjZYKh-24" target="mRx_FaWrqU_GG4FjZYKh-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-24" value="&lt;b&gt;&lt;u&gt;Itching/soreness&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="695" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-25" value="• Gonorrhea &lt;br&gt;• Chlamydia" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="616.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-26" value="• Candida&lt;br&gt;• Genital herpes&lt;br&gt;• Chlamydia&lt;br&gt;• Gonorrhea" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="650" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-27" value="&lt;u style=&quot;font-weight: bold;&quot;&gt;Genital skin changes&lt;/u&gt;&lt;br&gt;• Blisters/ulcers → herpes&lt;br&gt;• Non-painful lesions&amp;nbsp;→ warts" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="575" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="mRx_FaWrqU_GG4FjZYKh-31" target="mRx_FaWrqU_GG4FjZYKh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-31" value="&lt;b&gt;&lt;u&gt;Testicular pain/swelling&lt;/u&gt;&lt;/b&gt;&lt;br&gt;• + SOCRATES&lt;br&gt;• Change in size of testicles" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="525" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-32" value="→ suggests epididymo-orchitis&lt;br&gt;• Chlamydia&lt;br&gt;• Gonorrhea" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="517.5" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-34" value="&lt;b&gt;&lt;u&gt;Introduction&lt;/u&gt;&amp;nbsp;&lt;/b&gt;• Signpost: some &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;personal&amp;nbsp;questions" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-50" value="• When did you last have sex?&lt;br&gt;• With regular partner or casual &lt;br&gt;&amp;nbsp; sexual encounter?&lt;br&gt;&amp;nbsp; - what sex was the partner?&lt;br&gt;• What type of sex was involved?&lt;br&gt;&amp;nbsp; - Did you the sex involve more &lt;br&gt;&amp;nbsp; &amp;nbsp; than one other person?&lt;br&gt;&amp;nbsp; - Give or receive oral sex?&lt;br&gt;&amp;nbsp; - Did you have vaginal sex?&lt;br&gt;&amp;nbsp; - Give or receive anal sex?&lt;br&gt;• Contraception?&lt;br&gt;&amp;nbsp; - Any form used? Barrier &lt;br&gt;&amp;nbsp; &amp;nbsp;contraception?&lt;br&gt;• Other sexual partners&lt;br&gt;&amp;nbsp; - Have you had any other &lt;br&gt;&amp;nbsp; &amp;nbsp; partners within the last 3 &lt;br&gt;&amp;nbsp; &amp;nbsp; months?&lt;br&gt;&amp;nbsp; - Review types of sex" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="190" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-51" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Last sexual contact&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-55" value="• Did you ever have a partner &lt;br&gt;&amp;nbsp; known to be HIV positive?&lt;br&gt;• MSM, bisexual partner?&lt;br&gt;• Have you had sex with someone &lt;br&gt;&amp;nbsp; abroad or in a different country?&lt;br&gt;• IVDU?&lt;br&gt;• Have you ever paid for sex, or &lt;br&gt;&amp;nbsp; been paid for sex?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="405" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-56" value="&lt;span style=&quot;font-style: normal;&quot;&gt;HIV risk assessment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="440" y="375" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-57" value="• Immunisation against Hep A/B, &lt;br&gt;&amp;nbsp; HPV vaccinations&lt;br&gt;• Monkeypox vax" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="565" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-58" value="&lt;span style=&quot;font-style: normal;&quot;&gt;PMH + surgical Hx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="440" y="535" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-59" value="• Prescribed meds / OTCs&lt;br&gt;• Drug allergies" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="505" y="625" width="165" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-60" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Drug Hx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="440" y="625" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-61" value="• Smoking&amp;nbsp;&lt;span style=&quot;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;• Alcohol&lt;br&gt;• Recreational drug use&lt;br&gt;• Occupation&amp;nbsp;&lt;span style=&quot;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;• Travelling&lt;br&gt;• Living / social network" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="515" y="670" width="155" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-62" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Social Hx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="440" y="670" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-63" value="• ICE!!!" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="745" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-64" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Conclusion&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="440" y="745" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-66" value="I would like to obtain&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;blood samples&lt;/u&gt;&lt;/b&gt;&amp;nbsp;for syphilis and HIV&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;serology&lt;/b&gt;. &lt;br&gt;&lt;br&gt;I would like to obtain charcoal &lt;b&gt;&lt;u&gt;swabs&lt;/u&gt;&lt;/b&gt;&amp;nbsp;(from x location) and/or a &lt;b&gt;&lt;u&gt;first-pass urine sample (M)&lt;/u&gt;&lt;/b&gt; to perform &lt;b&gt;NAAT&lt;/b&gt; for chlamydia, gonorrhoea&amp;nbsp;± trichomonas.&lt;br&gt;&lt;br&gt;I would also order &lt;b&gt;gonococcal cultures &lt;/b&gt;with these swabs. If available, I would also like to perform Gram microscopy with these samples.&lt;br&gt;&lt;br&gt;If &lt;i&gt;bacterial vaginosis &lt;/i&gt;or &lt;i&gt;trichomonas &lt;/i&gt;suspected,&amp;nbsp;I would like to obtain a &lt;b&gt;&lt;u&gt;high vaginal swab&lt;/u&gt;&lt;/b&gt; to perform wet mount microscopy, pH testing, and amine testing.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#B85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="72.5" width="190" height="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mRx_FaWrqU_GG4FjZYKh-67" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Investigations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=3;align=left;spacing=5;fillColor=#f8cecc;strokeColor=#B85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

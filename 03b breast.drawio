@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2023-04-26T10:32:35.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VAbEHiEWhkqVaL8RgZ3A" version="21.2.2" type="dropbox">
+  <diagram id="jyZ8ALnh5LzeWvP5rzW2" name="2023-01-18">
+    <mxGraphModel dx="2049" dy="229" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A67285;endArrow=block;endFill=0;dashed=1;dashPattern=1 4;" parent="1" source="fCBD8a2lisjKOdRzJ-kr-1" target="2N9zzXllWPFOEhA9ajQY-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="890" />
+              <mxPoint x="160" y="870" />
+              <mxPoint x="905" y="870" />
+              <mxPoint x="905" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-37" value="see also" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2N9zzXllWPFOEhA9ajQY-36" vertex="1" connectable="0">
+          <mxGeometry x="-0.8863" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCBD8a2lisjKOdRzJ-kr-1" value="Breast cancer" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#DDC3ED;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="59" y="880" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fCBD8a2lisjKOdRzJ-kr-2" value="D:&amp;nbsp;ductal or lobular carcinoma&lt;br style=&quot;font-size: 11px;&quot;&gt;– carcinoma in situ vs invasive&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;Most common types&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/i&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Invasive ductal carcinoma:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; most&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;common&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&amp;nbsp; ↳ &#39;No Special Type (NST)&#39;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;• Invasive lobular carcinoma&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Ductal carcinoma-in-situ (DCIS)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Lobular carcinoma-in-situ (LCIS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="59" y="910" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="fCBD8a2lisjKOdRzJ-kr-3" value="R: ↑age, F&amp;gt;M, FHx, genetics, oestrogen exposure (endo and exogenous), alcohol, radiation" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="59" y="1045" width="190" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fCBD8a2lisjKOdRzJ-kr-4" value="S/smx:&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Lump: hard, irregular,&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;fixed in&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&amp;nbsp; place ±&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;tethered&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Nipple retraction&amp;nbsp;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;• Discharge&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Skin dimpling&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Paget&#39;s disease of the breast&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; -&amp;nbsp;eczematoid change of the nipple&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; - a/w underlying breast cancer&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Inflammatory breast cancer&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; - cancer cells block LN drainage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="59" y="1100" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fCBD8a2lisjKOdRzJ-kr-5" value="&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Ix: &lt;b&gt;&lt;i&gt;2ww ref&lt;/i&gt;&lt;/b&gt; for&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• unexplained breast or&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;axilla lump&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&amp;nbsp; in pts ≥30yo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Unilat nipple ∆ in pts&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;≥50yo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• suspicious skin ∆&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;gt; Non urgent ref for unexplained&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;breast lumps in pts ≤30yo&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;u&gt;Triple Ax&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Clinical Ax (HxPE)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Imaging (US for ≤30yo/&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;mam&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;for&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;all&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; others)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; ↳ hypoechoic mass&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; ↳ irregular + internal calcification&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; ↳ enlarged axillary LN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;• Histology (needle asp/&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;core biopsy)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Others&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;• hormone receptor testing&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;• HER2 testing&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;• CT or PET if mets suspected&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="59" y="1251" width="190" height="284" as="geometry" />
+        </mxCell>
+        <mxCell id="fCBD8a2lisjKOdRzJ-kr-6" value="Mx: &lt;i&gt;Before surgery&lt;/i&gt;&lt;br&gt;• No palpable axillary LN – pre-op &lt;br&gt;&amp;nbsp; US → if +ve, SN biopsy&lt;br&gt;• Palpable axillary LN – axillary node &lt;br&gt;&amp;nbsp; clearance (a/w lymphadenopathy &lt;br&gt;&amp;nbsp; and ↑risk infections)&lt;br&gt;&lt;br&gt;&lt;i&gt;Surgical options&lt;/i&gt;&lt;br&gt;• &lt;b&gt;Mastectomy&lt;/b&gt; if multifocal tumour, &lt;br&gt;&amp;nbsp; central tumour, large lesion in small &lt;br&gt;&amp;nbsp; breast, DCIS &amp;gt;4cm&lt;br&gt;• &lt;b&gt;Wide local excision&lt;/b&gt; if solitary &lt;br&gt;&amp;nbsp; tumour, peripheral, small lesion, &lt;br&gt;&amp;nbsp; DCIS &amp;lt;4cm&lt;br&gt;• Offer reconstructive surgery&lt;br&gt;&lt;br&gt;&lt;i&gt;Radiological options&lt;/i&gt;&lt;br&gt;• For WLE: whole breast rt rec – &lt;br&gt;&amp;nbsp; ↓recurrence by 66%&lt;br&gt;• For mastectomy: T3 and T4 &lt;br&gt;&amp;nbsp; tumours and/or ≥4 +ve nodes&lt;br&gt;&lt;br&gt;&lt;i&gt;Hormonal options&lt;/i&gt;&lt;br&gt;• If pt is +ve for hormone receptors&lt;br&gt;• Pre- and peri-menopausal: &lt;br&gt;&amp;nbsp; tamoxifen&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;↳ ↑risk of endometrial cancer, &lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;VTE, menopausal smx&lt;br&gt;• Post-menopause: aromatase &lt;br&gt;&amp;nbsp; inhibitors eg anastrazole&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;↳ MOA:&amp;nbsp;↓peripheral synthesis of &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;estrogen&lt;br&gt;&lt;br&gt;&lt;i&gt;Biological options&lt;/i&gt;&lt;br&gt;• For HER2 +ve (20-25% tumours): &lt;br&gt;&amp;nbsp; trastuzumab (Herceptin)&lt;br&gt;&lt;br&gt;Chemotherapy&lt;br&gt;• Neoadjv to downstage 1&#39; lesion&lt;br&gt;• Axillary node disease: FED-C&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="259" y="910" width="190" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-1" value="P: • Men have higher mortality&lt;br&gt;• Various prognostic tools&lt;br&gt;• Biomarkers: CEA" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="259" y="1455" width="190" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-2" value="Fibroadenoma" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#ffc8dd;strokeColor=#967682;" parent="1" vertex="1">
+          <mxGeometry x="479" y="880" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-3" value="D: benign tumour of stromal/ epithelial breast duct tissue that develops from a whole lobule – 12% of all breast masses" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#967682;" parent="1" vertex="1">
+          <mxGeometry x="479" y="910" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-4" value="Fibrocystic breast changes" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#ffafcc;strokeColor=#A67285;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1190" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-5" value="D: non-specific term; continuum of physiological to pathological ∆s" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#A67285;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1220" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-6" value="R: young (20-40yo), hormone exposure (estrogen &amp;amp; progestrogen)" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#967682;" parent="1" vertex="1">
+          <mxGeometry x="479" y="980" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-7" value="Features&lt;br&gt;• ≤3cm, round, smooth and well-&lt;br&gt;&amp;nbsp; defined borders, firm, mobile,&amp;nbsp;and &lt;br&gt;&amp;nbsp; painless (&quot;breast mouse&quot;)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#967682;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1020" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-8" value="Site, size and shape&lt;br&gt;Colour, contour, consistency&lt;br&gt;Tethering, tenderness&lt;br&gt;Fluctuance ± transillumination&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="939" y="870" width="170" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-9" value="Mx: conservative – monitoring&lt;br&gt;• Over 2y period, ≤30% get smaller&lt;br&gt;• No increased risk in malignancy &lt;br&gt;&amp;nbsp; unless FHx or ?complex&lt;br&gt;Surgical – if ≥3cm in diameter" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#967682;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1090" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-10" value="R: 30-50yo, ↑hormone exposure" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#A67285;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1265" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A67285;endArrow=block;endFill=0;" parent="1" source="2N9zzXllWPFOEhA9ajQY-11" target="2N9zzXllWPFOEhA9ajQY-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="1433" />
+              <mxPoint x="464" y="1433" />
+              <mxPoint x="464" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-11" value="Features – often occur prior to menses (within 10d) and resolve once menses begins&lt;br&gt;• Lumpiness ± fluctuation of breast &lt;br&gt;&amp;nbsp; size ± nipple discharge&lt;br&gt;• Mastalgia – cyclical or non-cyclical&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#A67285;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1365" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-12" value="A/P: the stroma, ducts and lobules respond to female sex hormones and become fibrous and cystic – may fluctuate within menstrual cycle" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#A67285;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1295" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-13" value="Mx: r/o cancer&lt;br&gt;• Advice: wear supportive bra, avoid &lt;br&gt;&amp;nbsp; caffeine, apply heat to area&lt;br&gt;• Rx: NSAIDs, hormonal tx under &lt;br&gt;&amp;nbsp; specialist guidance" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#A67285;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1460" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-14" value="P: mastalgia likely chronic, relapsing (~12y). Cysts ~1/4 pts experience recurrence in 1y" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#A67285;" parent="1" vertex="1">
+          <mxGeometry x="479" y="1545" width="190" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-15" value="Cysts: round, smooth and well-defined borders, mobile, possibly fluctuant&lt;br&gt;– a/w pain due to mastalgia" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#A67285;" parent="1" vertex="1">
+          <mxGeometry x="299" y="1530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-17" value="Fat necrosis" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#bde0fe;strokeColor=#6E8294;" parent="1" vertex="1">
+          <mxGeometry x="699" y="880" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-18" value="D: localised degeneration and scarring of fat tissue in the breast" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#6E8294;" parent="1" vertex="1">
+          <mxGeometry x="699" y="910" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-19" value="A/P: often triggered by localised trauma, radiotherapy, surgery → inflammatory reaction → fibrosis and fat necrosis" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#6E8294;" parent="1" vertex="1">
+          <mxGeometry x="699" y="955" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-20" value="Features:&lt;br&gt;• firm, irregular, fixed in local &lt;br&gt;&amp;nbsp; structures, painless&lt;br&gt;• a/w skin dimpling, nipple inversion&lt;br&gt;• a/w oil cyst containing liquid fat" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#6E8294;" parent="1" vertex="1">
+          <mxGeometry x="699" y="1025" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-21" value="Ix: since it presents similarly to breast Ca – triple Ax required&lt;br&gt;• Imaging can show similar &lt;br&gt;&amp;nbsp; appearance to breast Ca&lt;br&gt;• Histology may be req to confirm Dx &lt;br&gt;&amp;nbsp; and r/o Ca" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#6E8294;" parent="1" vertex="1">
+          <mxGeometry x="699" y="1110" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-22" value="Mx: conservative – may resolve spontaneously with time. Surgical excision if symptomatic" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#6E8294;" parent="1" vertex="1">
+          <mxGeometry x="699" y="1205" width="190" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-23" value="Lipoma" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#a2d2ff;strokeColor=#64829E;" parent="1" vertex="1">
+          <mxGeometry x="699" y="1270" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-24" value="D: slow-growing, benign, mesenchy-mal tumours made of adipocytes" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#64829E;" parent="1" vertex="1">
+          <mxGeometry x="699" y="1300" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-25" value="Features: &lt;br&gt;• 1 in 1000, usually middle-aged pts&lt;br&gt;• Smooth, soft, mobile, painless&lt;br&gt;• Not a/w skin changes." style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#64829E;" parent="1" vertex="1">
+          <mxGeometry x="699" y="1345" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-26" value="Mx: conservative – converstion to liposarcoma is very rare.&amp;nbsp;&lt;br&gt;Surgical excision, liposuction or lipolysis indicated for&amp;nbsp;&lt;br&gt;• Cosmetic reasons&lt;br&gt;• Symptomatic: painful, bothersome&lt;br&gt;• ↑size or concern for conversion&lt;br&gt;&amp;nbsp; ↳ size &amp;gt;5cm&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;↳ pain&lt;br&gt;&amp;nbsp; ↳ deep anatomical location&lt;br&gt;&amp;nbsp; ↳ all 4 features a/w 85% risk" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#64829E;" parent="1" vertex="1">
+          <mxGeometry x="699" y="1415" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-28" value="Galactocele" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#fefae0;strokeColor=#828073;" parent="1" vertex="1">
+          <mxGeometry x="919" y="1175" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-29" value="D: breast milk-filled cysts occurring due to blocked lactiferous ducts" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#828073;" parent="1" vertex="1">
+          <mxGeometry x="919" y="1205" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-30" value="Features: firm, mobile, painless lump, usually beneath the areola" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#828073;" parent="1" vertex="1">
+          <mxGeometry x="919" y="1250" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-31" value="Mx: conservative – tend to resolve. &lt;br&gt;• Drainage with needle if needed&lt;br&gt;• Abx if infected" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#828073;" parent="1" vertex="1">
+          <mxGeometry x="919" y="1295" width="190" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-32" value="Phyllodes tumour" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#DDC3ED;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="919" y="970" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-33" value="D: tumour of the breast stroma" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="919" y="1000" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-34" value="Features: • usually F 40-60yo&lt;br&gt;• Rapid onset, rapid enlargement of &lt;br&gt;&amp;nbsp; breast&lt;br&gt;• 50% benign, 25% borderline, 25% &lt;br&gt;&amp;nbsp; malignant – can metastasise, can &lt;br&gt;&amp;nbsp; recur&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="919" y="1030" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2N9zzXllWPFOEhA9ajQY-35" value="Mx: wide local excision" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#675A6E;" parent="1" vertex="1">
+          <mxGeometry x="919" y="1125" width="190" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

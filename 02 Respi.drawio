@@ -1,0 +1,622 @@
+<mxfile host="Electron" modified="2023-08-30T12:15:07.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="rWddenSgt4W9R9e3a0v2" version="21.6.8" type="device" pages="4">
+  <diagram name="asthma COPD" id="yU6HRVttoWmXZGh9-7ri">
+    <mxGraphModel dx="1153" dy="709" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-2" value="Asthma" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#540d6e;fontColor=#FFFFFF;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-6" value="COPD" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#ee4266;fontColor=#FFFFFF;strokeColor=#ee4266;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-68" value="D: chronic inflammatory airway disease characterised by &lt;b style=&quot;font-size: 11px;&quot;&gt;intermittent reversible airway obstruction&lt;/b&gt; and &lt;b style=&quot;font-size: 11px;&quot;&gt;hyper-reactivity&lt;/b&gt;." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="69" width="190" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-69" value="R: Fhx, allergens, atopic hx. ⨮ nasal polyposis, obesity, GORD, apnea" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="139" width="190" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-70" value="A/P: &lt;b style=&quot;font-size: 11px;&quot;&gt;(1) inflammation, (2) airway hyper-responsiveness (AHR).&lt;/b&gt; The large airways and small airways &amp;lt;2µm are the sites of inflammation and airway obstruction.&lt;br style=&quot;font-size: 11px;&quot;&gt;(1) occurs due to inflammatory cells, mediators, etc. Initial trigger → Th2 response + other cells move to airway epithelium and cause ∆.&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;(2) smooth muscle contraction → AHR. Baseline fixed (∵ airway remodelling) + episodic variable element (∵ acute inflammation).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-71" value="Hx: recurrent dyspnea, chest tightness, wheezing, coughing. Allergens. Night time smx that wake pt from sleep in severe asthma.&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;PE: in exacerbation, wheezing audible, or chest may be silent in severe episode" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-72" value="Dx&amp;nbsp;≥17yo: &lt;span style=&quot;background-color: rgb(255, 204, 204); font-size: 11px;&quot;&gt;spirometry &amp;amp; &lt;br&gt;&amp;nbsp; bronchodilator reversibility (BDR) &lt;br&gt;&amp;nbsp; + FeNO (&amp;gt;40 ppm)&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Dx 5-16yo: spirometry &amp;amp; BDR + &lt;br&gt;&amp;nbsp; FeNO (if normal spirometry or &lt;br&gt;&amp;nbsp; obstructive smx and -ve BDR test)&lt;br style=&quot;font-size: 11px;&quot;&gt;Dx &amp;lt;5yo: Dx on clinical judgment&lt;br style=&quot;font-size: 11px;&quot;&gt;Reversibility testing: +ve if &lt;br&gt;&amp;nbsp; ↑FEV of&amp;nbsp;≥12% or 200 mL&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Peak flow variability: ask pt if better &lt;br&gt;&amp;nbsp; on holidays/away from work!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-73" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Mx: Step wise.&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Monitoring: daily PEFR readings&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="240" y="69" width="190" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-74" value="PEFR meter: 3 hard, fast blows, and then take the best of 3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;spacing=0;spacingTop=-5;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="640" width="165" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-75" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;Acute exacerbation (mod to severe)&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 204, 204); font-size: 11px;&quot;&gt;S/Smx&lt;/span&gt;: SOB, cough, wheeze, ↑chest tightness, ↓PFT, ↑HR, ↑RR, accessory muscle use, sleep disturbance, &lt;b style=&quot;font-size: 11px;&quot;&gt;!! silent chest [impending respi failure]&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 204, 204); font-size: 11px;&quot;&gt;Ix&lt;/span&gt;: ABG (repeat in 1h if continuing issues), peak flow (and 15-30 min after starting tx), O2 sats, CXR [not routine].&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 204, 204); font-size: 11px;&quot;&gt;Mx&lt;/span&gt;: ITU, O2, SABA (inh / IV), steroid PO/IV, &lt;br&gt;± MgSO4, aminophylline, CPAP, abx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="255" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-76" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Spirometry&lt;/b&gt; is a test which measures the &lt;b style=&quot;font-size: 11px;&quot;&gt;volume&lt;/b&gt; and &lt;b style=&quot;font-size: 11px;&quot;&gt;flow&lt;/b&gt; of air during exhalation and inhalation.&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;FEV1&lt;/b&gt; = forced expiratory volume at the end of 1s of forced expiration&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;FVC&lt;/b&gt; = volume exhaled after maximal inspiration following full inspiration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#9818C7;" vertex="1" parent="1">
+          <mxGeometry x="40" y="670" width="190" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-77" value="1. SABA prn&lt;br style=&quot;font-size: 11px;&quot;&gt;2. + low dose ICS&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;or cromolyn / montelukast&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;3. ∆ medium dose ICS&lt;br style=&quot;font-size: 11px;&quot;&gt;4. + LABA or montelukast&lt;br style=&quot;font-size: 11px;&quot;&gt;5. ∆ high dose ICS&lt;br style=&quot;font-size: 11px;&quot;&gt;6. + PO steroids" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#540D6E;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="190" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-78" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Methacholine challenge&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Methacholine adm sequentially in &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↑conc ranging from 0.016 to 16 &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; mg/m via nebuliser&lt;br style=&quot;font-size: 11px;&quot;&gt;• FEV1 measured at 30s, 90s,&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Dose/conc ↑ until FEV1 ↓ &amp;gt;20% &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; and PD20/PC20 is determined&lt;br style=&quot;font-size: 11px;&quot;&gt;• +ve test if PD20 ≤200 mcg&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;or &lt;b style=&quot;font-size: 11px;&quot;&gt;PC20 ≤8 mg/mL&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#9818C7;" vertex="1" parent="1">
+          <mxGeometry x="505" y="655" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-79" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;Budesonide doses&lt;/i&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;For adults ≥17yo:&lt;br style=&quot;font-size: 11px;&quot;&gt;• Low dose: ≤400 mcg&lt;br style=&quot;font-size: 11px;&quot;&gt;• Mod: 400-800 | • High: &amp;gt;800&lt;br style=&quot;font-size: 11px;&quot;&gt;For children ≤16yo:&lt;br style=&quot;font-size: 11px;&quot;&gt;• Low dose: ≤200 mcg&lt;br style=&quot;font-size: 11px;&quot;&gt;• Mod: 200-400 |&amp;nbsp;• High: &amp;gt;400" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-80" value="&lt;b style=&quot;font-style: italic; font-size: 11px;&quot;&gt;Equivalent doses&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Beclometasone 1:1&lt;br style=&quot;font-size: 11px;&quot;&gt;• Mometasone 1:1&lt;br&gt;• Fluticasone 1:2&amp;nbsp;(halve the dose)&lt;br style=&quot;font-size: 11px;&quot;&gt;• Ciclesonide – 80 mcg two puffs bds &lt;br&gt;&amp;nbsp; for low" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-81" value="FEV1 – ↓↓↓&lt;br&gt;FVC – normal&lt;br&gt;FEV1/FVC &amp;lt;70%&lt;br&gt;&lt;br&gt;** REVERSIBLE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#9818C7;" vertex="1" parent="1">
+          <mxGeometry x="505" y="580" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-82" value="BTS classification of acute asthma" style="swimlane;labelBackgroundColor=none;fontSize=11;strokeColor=#540D6E;startSize=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="255" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-83" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Moderate&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;PEFR 50-75%&lt;br style=&quot;font-size: 11px;&quot;&gt;Speech normal&lt;br style=&quot;font-size: 11px;&quot;&gt;RR &amp;lt;25&lt;br style=&quot;font-size: 11px;&quot;&gt;HR &amp;lt;110" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBackgroundColor=none;strokeColor=#540D6E;" vertex="1" parent="RhJKn-NL6VNkFWuleS6q-82">
+          <mxGeometry x="5" y="30" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-84" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Severe&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;PEFR 33-50%&lt;br style=&quot;font-size: 11px;&quot;&gt;Incomplete sentences&lt;br style=&quot;font-size: 11px;&quot;&gt;RR &amp;gt;25&lt;br style=&quot;font-size: 11px;&quot;&gt;Pulse &amp;gt;110" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBackgroundColor=none;strokeColor=#540D6E;" vertex="1" parent="RhJKn-NL6VNkFWuleS6q-82">
+          <mxGeometry x="5" y="105" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-85" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Life-threatening&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;PEFR &amp;lt;33%&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;O2 sats &amp;lt;92%&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&quot;Normal&quot; PCO2&lt;br style=&quot;font-size: 11px;&quot;&gt;Silent chest, cyanosis or feeble respi effort&lt;br style=&quot;font-size: 11px;&quot;&gt;↓HR, ↓RR, dysrhythmia&lt;br style=&quot;font-size: 11px;&quot;&gt;Exhaustion, confusion, coma" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBackgroundColor=none;strokeColor=#540D6E;" vertex="1" parent="RhJKn-NL6VNkFWuleS6q-82">
+          <mxGeometry x="130" y="30" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-86" value="CRAB: &lt;b&gt;C&lt;/b&gt;hronic, &lt;b&gt;R&lt;/b&gt;eversible obstruction, &lt;b&gt;A&lt;/b&gt;irway hypersensitivity, &lt;b&gt;B&lt;/b&gt;ronchial inflammation" style="text;html=1;strokeColor=none;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;spacing=0;spacingTop=-3;spacingLeft=3;spacingBottom=2;spacingRight=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="404" width="215" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-88" value="D: disease state characterised by &lt;b style=&quot;font-size: 11px;&quot;&gt;progressive airflow limitation&lt;/b&gt; that is not fully reversible. Compasses both emphysema and chronic bronchitis.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#EE4266;" vertex="1" parent="1">
+          <mxGeometry x="460" y="69" width="200" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-89" value="R: ❗️smoking, ↑age, genetics (AATD), childhood lung issues" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#EE4266;" vertex="1" parent="1">
+          <mxGeometry x="460" y="139" width="200" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-90" value="A/P: chronic inflammation that affects central and peripheral airways, lung parenchyma and alveoli, and pulmonary vasculature. Repeated injury and repair → structure and physiologic ∆.&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; Narrowing and remodelling of airways&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↑ no of goblet cells&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↑ size of mucus-secreting glands of&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;central airways&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;Alveolar loss&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;Vascular bed changes → pul HTN&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Emphysema ∵ elastin breakdown causing loss of alveolar integrity&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#EE4266;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-91" value="S/Smx: 🔑 cough (freq morning cough, but becomes constant), SOB, sputum, risk factors. ⨮ barrel chest, hyper-resonance, wheezing (&quot;continuous musical lung sound&quot;), coarse crackles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#EE4266;" vertex="1" parent="1">
+          <mxGeometry x="670" y="69" width="200" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-92" value="Ix: spirometry (&lt;b style=&quot;background-color: rgb(0, 255, 255); font-size: 11px;&quot;&gt;FEV1/FVC&amp;lt;0.7&lt;/b&gt;; FEV6 also acceptable), mMRC/CAT to Ax smx, O2 sats, ABG, CXR, FBC, ECG (Ax for comorbidities). ⨮ α1-antitrypsin levels, exercise testing, sputum culture, etc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#EE4266;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-94" value="C/P: cor pulmonale (engorged neck veins, loud P2, edema, hepatomegaly) - tx w/ continuous O2. ↑risk of recurrent pneumonia and depression. Variable course of disease - prognosis may be est via FEV1." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#EE4266;" vertex="1" parent="1">
+          <mxGeometry x="670" y="245" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-95" value="In COPD,&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;fixed ↓FEV1 &amp;lt;70%&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;u style=&quot;font-size: 11px;&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;Gold staging&lt;/i&gt;&lt;/u&gt; based on %FEV1 of predicted&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;gt;80% – Stage 1mild&lt;br style=&quot;font-size: 11px;&quot;&gt;50-79% – Stage 2 (mod)&lt;br style=&quot;font-size: 11px;&quot;&gt;30-49% – Stage 3 (severe)&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;lt;30% – Stage 4 (v severe)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#EE4266;" vertex="1" parent="1">
+          <mxGeometry x="515" y="380" width="145" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-97" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;Mx of stable COPD&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/u&gt;General advice&lt;br style=&quot;font-size: 11px;&quot;&gt;• Smoking cessation, incl nicotine &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; replacement, varenicline, bupropion&lt;br style=&quot;font-size: 11px;&quot;&gt;• Annual flu jab&lt;br style=&quot;font-size: 11px;&quot;&gt;• One off pneumococcal vaccination&lt;br style=&quot;font-size: 11px;&quot;&gt;• Pulmonary rehab if functional &lt;br&gt;&amp;nbsp; disability&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Bronchodilator&lt;br style=&quot;font-size: 11px;&quot;&gt;☝🏻SABA or SAMA eg &lt;b style=&quot;font-size: 11px;&quot;&gt;ipratropium&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;✌🏻&lt;u style=&quot;font-size: 11px;&quot;&gt;Asthmatic/steroid-responsive&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;↳ if prev dx of asthma or atopy, &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&amp;nbsp; higher eosinophil count, variation &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&amp;nbsp; in FEV1 (≥400 mL) over time, &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&amp;nbsp; diurnal variation in PEF (≥20%)&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; • LABA + ICS&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; • LAMA + ICS + LABA&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; ↳ if pt on SAMA, switch to SABA&lt;br style=&quot;font-size: 11px;&quot;&gt;✌🏻&lt;u style=&quot;font-size: 11px;&quot;&gt;No asthmatic features&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/u&gt;&amp;nbsp; •&amp;nbsp; LABA + LAMA" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#EE4266;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="670" y="340" width="200" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-98" value="SABA&lt;span style=&quot;font-size: 11px;&quot;&gt; &lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;/span&gt;• &lt;b style=&quot;font-size: 11px;&quot;&gt;salbutamol&lt;/b&gt; (blue inhaler)&lt;br style=&quot;font-size: 11px;&quot;&gt;LABA &lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• salmeterol&amp;nbsp;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• vilenterol&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• &lt;b style=&quot;font-size: 11px;&quot;&gt;formoterol&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;SAMA&lt;span style=&quot;font-size: 11px;&quot;&gt; &lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;/span&gt;• ipratropium&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;LAMA&amp;nbsp;&lt;span style=&quot;font-size: 11px;&quot;&gt; &lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;/span&gt;• tiotropium (Respimat)&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• glycopyrronium&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• umeclindinium (Ellipta)&lt;br style=&quot;font-size: 11px;&quot;&gt;ICS&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• beclometasone&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• fluticasone&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• budesonide" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#EE4266;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="880" y="69" width="210" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-99" value="• Fostair (LABA + ICS – beclometasone &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; + formoterol) = &quot;pink inhaler&quot;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Symbicort (LABA + ICS – budesonide &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; + formoterol)&lt;br style=&quot;font-size: 11px;&quot;&gt;• Seretide (LABA + ICS – salmeterol + &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; fluticasone)&lt;br style=&quot;font-size: 11px;&quot;&gt;• Trelegy Ellipta (LABA + LAMA + ICS – &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; vilanterol + umeclidinium + fluticasone)&lt;br style=&quot;font-size: 11px;&quot;&gt;• Blue inhaler = salbutamol&lt;br style=&quot;font-size: 11px;&quot;&gt;• Brown inhaler = beclometasone" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;strokeColor=#EE4266;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="880" y="204" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-100" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Blue bloaters&lt;/b&gt;: chronic bronchitis. Productive cough, frequent RTI, progressive cardiorespi failure w/ edema and wt gain&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;→ obese, accessory muscles, coarse ronchi&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Pink puffers&lt;/b&gt;: emphysema - long hx of progressive SOB, late onset of non-productive cough. Occasional RTI. Eventual cachexia and respi failure&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;→ thin and barrel shaped chest, pursed lips, &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;tripod, hyper-resonant chest, distant heart &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;sounds&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;u style=&quot;font-size: 11px;&quot;&gt;MRC Dyspnea Scale&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;1 - breathless on strenuous exercise&lt;br style=&quot;font-size: 11px;&quot;&gt;2 - breathless walking up hill&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;3 - breathless that slows walking on flat ground&lt;br style=&quot;font-size: 11px;&quot;&gt;4 - breathless after 100m flat&lt;br style=&quot;font-size: 11px;&quot;&gt;5 - unable to leave house ∵ breathless" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;spacing=0;spacingTop=-5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="385" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-101" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;Exacerbation of COPD&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Common infxns: &lt;i style=&quot;font-size: 11px;&quot;&gt;H. influenzae, S pneumoniae, M. catarrhalis&lt;/i&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;ABG should show compensated respiratory acidosis&lt;br style=&quot;font-size: 11px;&quot;&gt;Ensure sats 88-92% in known CO2 retainers&lt;br style=&quot;font-size: 11px;&quot;&gt;→ use Venturi mask to give specific %O2.&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;→ if bicarb is normal, aim for &amp;gt;94% (less risk)&lt;br style=&quot;font-size: 11px;&quot;&gt;Mx: prednisolone 30 mg od x5d, regular inh/nebs&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; - abx only if s/smx of pneumonia – amox, clari, &lt;br&gt;&amp;nbsp; &amp;nbsp; or doxy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;spacing=0;spacingTop=-5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="640" width="240" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJKn-NL6VNkFWuleS6q-103" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;COPD rescue packs&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Prednisolone 30mg OD 7-14d&lt;br style=&quot;font-size: 11px;&quot;&gt;- Abx: amox (500 mg tds x 5d), &lt;br&gt;&amp;nbsp; doxy (200 mg first day, then &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; 100 mg OD, total 5d) or clari &lt;br&gt;&amp;nbsp; (500 mg bds x 5d)&lt;br style=&quot;font-size: 11px;&quot;&gt;→ ↑use of rescue packs &lt;br&gt;&amp;nbsp; &amp;nbsp; indicates worsening COPD&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Step down:&amp;nbsp;↓25-50% in dose of ICS first" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;spacing=0;spacingTop=-5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="640" width="155" height="145" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rWlhoawY8oIjnxi_9Xsn" name="cancers &amp; fibrosis">
+    <mxGraphModel dx="1564" dy="963" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hQn2WTLAaTq2nDV0td08-1" value="SCLC" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#ffd23f;fontColor=#000000;strokeColor=#ffd23f;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-3" value="NSCLC" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#3bceac;fontColor=#000000;strokeColor=#3bceac;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-5" value="Bronchiectasis" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#9b5de5;fontColor=#FFFFFF;strokeColor=#9b5de5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-7" value="Mesothelioma" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#0ead69;fontColor=#FFFFFF;strokeColor=#0ead69;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-11" value="Idiopathic pulmonary fibrosis" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#f15bb5;fontColor=#FFFFFF;strokeColor=#f15bb5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-16" value="D: aggressive malignant epithelial tumour of cells in the lower respi tract.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#FFD23F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="410" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-17" value="R: smoking, smoke exposure, radon&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#FFD23F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-18" value="P: usually arises from APUD cells, a/w ectopic ADH, ACTH secretion and Lambert Eaton (myasthenia-like)&lt;br style=&quot;font-size: 11px;&quot;&gt;→ APUD = Amine, Precursor Uptake, &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; Decarboxylase&lt;br style=&quot;font-size: 11px;&quot;&gt;Histology:&amp;nbsp;small and densely packed, with scant cytoplasm, finely granular nuclear chromatin, and absence of nucleoli" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#FFD23F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-19" value="S/Smx: 🔑 cough, CP, haemoptysis, SOB, wt loss. ⨮ hoarseness, clubbing, also depending on metastasis, etc." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#FFD23F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="265" width="410" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-21" value="Mx: if limited disease, CTRT. If extensive or mets, chemo only, RT for mets (palliative use). Consider prophylactic cranial irradiation.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#FFD23F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="355" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-22" value="CTRT = chemo &amp;amp; radiotherapy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#000000;spacing=0;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="115" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-23" value="C: {C} pneumonia, haematologic tox, radiation induced esophageal injury. {LC} SVC syndrome, paraneoplastic syndromes, radiation induced lung injury. {R} haemoptysis&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#FFD23F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="425" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-24" value="P:&amp;nbsp;The 5-year survival rates are approximately 12% to 24% for limited stage and 1% to 5% for extensive stage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#FFD23F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="505" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-27" value="R: smoking, smoke exposure, COPD, FHx, radon, ↑age" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#3BCEAC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-28" value="❗️&lt;i style=&quot;font-size: 11px;&quot;&gt;Impt features&amp;nbsp;&lt;/i&gt;❗️&lt;br style=&quot;font-size: 11px;&quot;&gt;• AC: located peripherally&lt;br style=&quot;font-size: 11px;&quot;&gt;• SCC: typically central, a/w PTHrp, &lt;br&gt;&amp;nbsp; clubbing, HPOA&lt;br style=&quot;font-size: 11px;&quot;&gt;• LCLC: located peripherally, &lt;br&gt;&amp;nbsp; anaplastic/ poorly-differentiated, β-&lt;br&gt;&amp;nbsp; HCG secretion - poor prognosis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#3BCEAC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="145" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-30" value="Ix: CXR, CTTAP, FBC (&amp;amp; other bloods), sputum cytology. ⨮ bronchoscopy, biopsy, thoracentesis, thoracscopy, CT/MRI brain, bone scan, PET, etc&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#FFD23F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="410" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-31" value="Mx: I to IIIA curable; IIIB to IV reverse, delay or palliate. I to II - surgery (lobectomy) or SABR + ? adjv chemo. If not suitable for above, external beam RT + double plat chemo. Some tumours can be treated with specific drugs, eg EGFR +ve, ALK re-arrangement +ve tumours.&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Many complications of surgery, RT and chemo - weigh pros and cons :(" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#3BCEAC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="355" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-32" value="C: pneumonia common, SVC syndrome, paraneoplastic syndromes&lt;br style=&quot;font-size: 11px;&quot;&gt;P: predictors of poor prognosis - poor performance status, pretx wt loss, M and ↑age. Prognosis dependent more on pathological state (histological). Prognosis ↓ as stage ↑.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#3BCEAC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="515" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="hQn2WTLAaTq2nDV0td08-35" target="hQn2WTLAaTq2nDV0td08-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="hQn2WTLAaTq2nDV0td08-35" target="hQn2WTLAaTq2nDV0td08-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-35" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Lung cancers :(&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="629" width="95" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-36" value="Small cell lung cancers (15%)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="75" y="669" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="hQn2WTLAaTq2nDV0td08-41" target="hQn2WTLAaTq2nDV0td08-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="hQn2WTLAaTq2nDV0td08-41" target="hQn2WTLAaTq2nDV0td08-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="hQn2WTLAaTq2nDV0td08-41" target="hQn2WTLAaTq2nDV0td08-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="hQn2WTLAaTq2nDV0td08-41" target="hQn2WTLAaTq2nDV0td08-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-41" value="Non-small cell lung cancers (80%)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="210" y="669" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-42" value="AC 40%" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="45" y="744" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-43" value="SCC 20%" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="100" y="744" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-44" value="LCC 10%" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="165" y="744" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-45" value="Others 10%" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="744" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-47" value="D: aggressive epithelial neoplasm from lining of the lung (90%)&lt;br style=&quot;font-size: 11px;&quot;&gt;→ rarely can occur in peritoneum, pericardium, and tunica vaginalis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#0EAD69;" vertex="1" parent="1">
+          <mxGeometry x="480" y="70" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-48" value="R: &lt;b style=&quot;font-size: 11px;&quot;&gt;asbestos&lt;/b&gt;, ?radiation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#0EAD69;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-49" value="A/P: asbestos → alveolar macrophages and neutrophils → ROS, RNS → damage to DNA, ∆ gene expression → cancer.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#0EAD69;" vertex="1" parent="1">
+          <mxGeometry x="480" y="225" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-50" value="Hx: exposure to asbestos (occupation hx), SOB, dry cough, CP. Other non-specific smx.&lt;br style=&quot;font-size: 11px;&quot;&gt;PE: findings of P effusion (↓breath sounds, dullness to percussion).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#0EAD69;" vertex="1" parent="1">
+          <mxGeometry x="480" y="295" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-51" value="M&amp;gt;F 3:1, latency 20-40y - pts usually present 60-90yo. Shipyard, construction, maintenance, mechanics, etc." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;spacing=0;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="500" y="165" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-52" value="Ix: CXR, CT w/ contrast, thoracentesis + cytology, biopsy. PET scan later. If considering surgical resection, PFT, echo,&amp;nbsp;mediastinoscopy. Routine bloods for baseline.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#0EAD69;" vertex="1" parent="1">
+          <mxGeometry x="480" y="375" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-53" value="Mx: extra-pleural pneumonectomy (EPP) and pleurectomy with decortication, but surgery alone rarely curative. Chemo (platinum based), adjv RT. Palliative (eg talc pleurodesis)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#0EAD69;" vertex="1" parent="1">
+          <mxGeometry x="480" y="470" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-54" value="C/P: high surgical morbidity, many side effects of RT/CT. Median survival is 10-15mo, 5y survival 5-10%.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;labelBorderColor=none;strokeColor=#0EAD69;" vertex="1" parent="1">
+          <mxGeometry x="480" y="565" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-56" value="D: &lt;b style=&quot;font-size: 11px;&quot;&gt;permanent dilation of bronchi&lt;/b&gt; ∵ destruction of the elastic and muscular components of the bronchial wall" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#9B5DE5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="70" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-57" value="R: CF, immunodeficiency, previous infxn, congenital disorders of bronchial airways (eg Young&#39;s), primary ciliary dyskinesia&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#9B5DE5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="140" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-58" value="A: Frequently 2/2 recurrent pul infxn → progressive bronchial damage. ⨮ immunodeficiency (5%), genetic (3%; eg CF), COPD asthma (5%), connective tissue disorders (4%), inhalation injuries (1%), idiopathic (7%), etc&lt;br style=&quot;font-size: 11px;&quot;&gt;P: persistent airway inflammation → bronchial wall edema, ↑mucus → damage, which may serve as foci for further colonisation &amp;amp; infxn&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#9B5DE5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-59" value="Hx: 🔑 persistent productive cough, daily mucopurulent sputum, SOB, fatigue, rhinosinusitis. ⨮ blood-tinged sputum, haemopytsis.&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;PE: fever, wt loss, ?clubbing.&amp;nbsp;👂🏻crackles, high pitched inspiratory squeaks, ronchi, wheezing. ↓O2 sats.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#9B5DE5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-60" value="Ix: FBC, sputum cultures. CXR. &lt;b style=&quot;font-size: 11px;&quot;&gt;CT&lt;/b&gt;&amp;nbsp;best for Dx (tree in bud pattern, signet ring sign).&amp;nbsp;± tests for aetiology (depending on RF). Spirometry, 6-min walk test, pH testing.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#9B5DE5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="559" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-61" value="Mx: &lt;b style=&quot;font-size: 11px;&quot;&gt;airway clearance&lt;/b&gt; (hydration, chest physio, nebulised saline ± mucolytic agents) 15-30 min bds/tds. Lifestyle mod (↑exercise, pul rehab). Tx infxn. ?Bronchiodilators (before abx). More severe disease - Sx, lung transplant" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#9B5DE5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="640" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-62" value="Brochiectasis severity index (BSI) - takes into account age, BMI, FEV1, hosp adm w/in 2y, MRC breathless score, microbiology, radiological severity." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;spacing=0;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="710" y="487.5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-63" value="P: irreversible condition - waxing waning course.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#9B5DE5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="750" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-64" value="* Haemophilus influenzae" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;spacingTop=-6;fontSize=11;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="565" y="769" width="127" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-66" value="D: chronic, life-threatening disease characterised by&amp;nbsp;formation of scar tissue w/in the lungs and ↑SOB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#F15BB5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="70" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-67" value="R: Fhx, smoking, ↑age (&amp;gt;50), M&amp;gt;F.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#F15BB5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="125" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-68" value="A/P: unknown. ?unidentified insult causes damage to alveolar epithelium, endothelium and BM → inflammatory cells damage the lung + dysregulation of normal repair process.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#F15BB5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="155" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-69" value="Hx: 🔑 RF, insidious onset of cough and SOB on exertion. ❗️r/o DDx: connective tissue disease, infxn, hypersensitivity, asbestosis, drugs.&lt;br style=&quot;font-size: 11px;&quot;&gt;PE: bi-basilar crackles (dry and velcro), clubbing." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#F15BB5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="235" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-70" value="Ix: PFT (restrictive picture - ↓FVC, TLC), ↓diffusion cap. CXR (opacities). HRCT (subpleura and bases, honeycomb). Routine labs to r/o other causes. ⨮ BAL, biopsy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#F15BB5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="330" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-71" value="Mx: pirfenidone and nintedanib + supp measures (pul rehab, monitor O2 sats, quit smoking, etc). Steroids often used in exacerbation (little evidence). Lung transplant in long term.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#F15BB5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="410" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-72" value="P: median survival of 2-5y at Dx.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#F15BB5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="490" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hQn2WTLAaTq2nDV0td08-73" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;Fibrosis in UPPER zones&lt;/u&gt;&amp;nbsp;[CHARTS]&lt;br style=&quot;font-size: 11px;&quot;&gt;• Coal workers&#39; pneumonitis&lt;br style=&quot;font-size: 11px;&quot;&gt;• Hypersensitivity&lt;br style=&quot;font-size: 11px;&quot;&gt;• Ankylosing spondylosis&lt;br style=&quot;font-size: 11px;&quot;&gt;• Radiation&lt;br style=&quot;font-size: 11px;&quot;&gt;• TB&lt;br style=&quot;font-size: 11px;&quot;&gt;• Silicosis – egg shell calcification&lt;br style=&quot;font-size: 11px;&quot;&gt;• Sarcoidosis&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;u style=&quot;font-size: 11px;&quot;&gt;Fibrosis in LOWER zones&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Idiopathic pulmonary fibrosis&lt;br style=&quot;font-size: 11px;&quot;&gt;• Connective tissue disorders, eg SLE&lt;br style=&quot;font-size: 11px;&quot;&gt;• Drug induced (amiodarone, &lt;br&gt;&amp;nbsp; bleomycin, methotrexate)&lt;br style=&quot;font-size: 11px;&quot;&gt;• Asbestosis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-7;strokeColor=#F15BB5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="520" width="200" height="205" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="if6nf_XA8fBOSyi1WW4k" name="pneumonia">
+    <mxGraphModel dx="1564" dy="963" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-1" value="Pneumonia" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#00bbf9;fontColor=#FFFFFF;strokeColor=#00bbf9;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-3" value="Pneumonia in immunocompromised pts" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#00f5d4;fontColor=#000000;strokeColor=#00f5d4;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-6" value="D:&amp;nbsp;&lt;b style=&quot;font-size: 11px;&quot;&gt;inflammation of the lungs&lt;/b&gt; with consolidation or interstitial lung infiltrates, most often categorised according to the causative organism" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="125" y="40" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-8" value="D:&amp;nbsp;pneumonia acquired outside hospital or healthcare facilities" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-10" value="D: acute LRTI&amp;nbsp;acquired &lt;b style=&quot;font-size: 11px;&quot;&gt;after ≥48h of admission to hospital&lt;/b&gt; and is not incubating at the time of admission" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#00BBF9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-11" value="A: &lt;b style=&quot;font-size: 11px;&quot;&gt;50% &lt;i style=&quot;font-size: 11px;&quot;&gt;Strep pneumoniae&lt;/i&gt;, 20% &lt;i style=&quot;font-size: 11px;&quot;&gt;H. influenzae&lt;/i&gt;&lt;/b&gt;. ⨮ M. catarrhalis (in immunocomp or chronic lung disease), Ps. aeruginosa (CF or bronchiectasis), S. aureus (CF)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.693;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#6C8EBF;fontSize=11;" edge="1" parent="1" source="z9wi6hb8kR9m5PA-Uml8-13" target="z9wi6hb8kR9m5PA-Uml8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-13" value="S/Smx: 🟢 cough+sputum, SOB, pleuritic CP, fever/rigors, confusion, night sweats, confusion&lt;br style=&quot;font-size: 11px;&quot;&gt;🚩 signs of sepsis: ↑HR, ↑RR, ↓O2, ↓BP, fever, confusion 🚩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-14" value="❗️&lt;b style=&quot;font-size: 11px;&quot;&gt;CURB-65&lt;/b&gt;&amp;nbsp;(or CRB-65)&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; •&amp;nbsp;&lt;b style=&quot;font-size: 11px;&quot;&gt;C&lt;/b&gt;onfusion&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;•&amp;nbsp;&lt;b style=&quot;font-size: 11px;&quot;&gt;U&lt;/b&gt;rea &amp;gt; 7&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;•&amp;nbsp;&lt;b style=&quot;font-size: 11px;&quot;&gt;R&lt;/b&gt;R ≥30&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;•&amp;nbsp;&lt;b style=&quot;font-size: 11px;&quot;&gt;B&lt;/b&gt;P – SBP &amp;lt;90 or DBP &amp;lt;60&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;• ≥&lt;b style=&quot;font-size: 11px;&quot;&gt;65&lt;/b&gt;yo&lt;br style=&quot;font-size: 11px;&quot;&gt;Score 0/1: consider tx at home&lt;br style=&quot;font-size: 11px;&quot;&gt;Score ≥2: consider hospital adm&lt;br style=&quot;font-size: 11px;&quot;&gt;Score ≥3: consider ITU" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="170" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-15" value="Ix: obs, &lt;b style=&quot;font-size: 11px;&quot;&gt;CXR&lt;/b&gt;, ABG, bloods (U&amp;amp;E, FBC, CRP, LFTs).&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;If sepsis suspected or severe disease, blood cultures, sputum culture" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="445" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-16" value="Mx of &lt;u style=&quot;font-size: 11px;&quot;&gt;CURB 0-1&lt;/u&gt; – at home&lt;br style=&quot;font-size: 11px;&quot;&gt;→ &lt;b style=&quot;font-size: 11px;&quot;&gt;PO amoxicillin for 5d&lt;/b&gt;; clarithromycin or doxycycline if penicillin allergy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="515" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-18" value="Mx of &lt;u style=&quot;font-size: 11px;&quot;&gt;CURB ≥2&lt;/u&gt; – hospitalisation&lt;br style=&quot;font-size: 11px;&quot;&gt;→ &lt;b style=&quot;font-size: 11px;&quot;&gt;PO amoxicillin +&amp;nbsp;clarithromycin for 5d &lt;/b&gt;[or doxycycline if pen allergy]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-19" value="Mx of &lt;u style=&quot;font-size: 11px;&quot;&gt;CURB ≥4&lt;/u&gt;&amp;nbsp;– ITU&lt;br style=&quot;font-size: 11px;&quot;&gt;→ &lt;b style=&quot;font-size: 11px;&quot;&gt;IV co-amoxiclav + clarithromycin for 5d &lt;/b&gt;[or levofloxacin if pen allergy]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="605" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-20" value="P: 30-day mortality based on CURB-65 score – &amp;lt;5% if 0-1; 15% if 3; &amp;gt;25% if 4-5&lt;br style=&quot;font-size: 11px;&quot;&gt;NICE&#39;s advice on resolution of smx:&lt;br style=&quot;font-size: 11px;&quot;&gt;• 1w: fever should resolve&lt;br style=&quot;font-size: 11px;&quot;&gt;• 4w: CP, sputum ↓↓&lt;br style=&quot;font-size: 11px;&quot;&gt;• &lt;span style=&quot;background-color: rgb(204, 255, 255); font-size: 11px;&quot;&gt;6w&lt;/span&gt;: cough, breathlessness ↓↓&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;↳ &lt;b style=&quot;font-size: 11px;&quot;&gt;follow-up CXR&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• 3mo: most smx ↓↓; fatigue may remain&lt;br style=&quot;font-size: 11px;&quot;&gt;• 6mo: most ppl back to normal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="210" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-21" value="A: early onset (&amp;lt;5d after adm) – Strep pneumoniae. Late onset – &lt;b style=&quot;font-size: 11px;&quot;&gt;MRSA, &lt;i style=&quot;font-size: 11px;&quot;&gt;Ps. aeruginosa&lt;/i&gt;, &lt;i style=&quot;font-size: 11px;&quot;&gt;E. coli&lt;/i&gt;, &lt;i style=&quot;font-size: 11px;&quot;&gt;Klebsiella pneumoniae&lt;/i&gt;&lt;/b&gt;, &lt;i style=&quot;font-size: 11px;&quot;&gt;Acinetobacter spp&lt;/i&gt;, etc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#00BBF9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="165" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-22" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;Atypical pneumonia&lt;/u&gt; is caused by organisms that cannot be cultured in the normal way or detected by Gram stains.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(204, 255, 255); font-size: 11px;&quot;&gt;&quot;Legions of psittaci MCQs&quot;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;• Legionella&lt;/b&gt;: infected water supplies or &lt;br&gt;&amp;nbsp; air conditioning, can cause hypoNa. &lt;br&gt;&amp;nbsp; typical pt &quot;cheap hotel holiday, hypoNa&quot;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;• Chlamydia psittaci&lt;/b&gt;: infected birds. &lt;br&gt;&amp;nbsp; typical pt &quot;parrot owner&quot;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;• Mycoplasma pneumoniae&lt;/b&gt;: milder &lt;br&gt;&amp;nbsp; pneumonia, erythema multiforme &lt;br&gt;&amp;nbsp; (target lesions), neurological smx, cold &lt;br&gt;&amp;nbsp; agglutinin disease&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;• Chlamydophillia pneumoniae&lt;/b&gt;: ?rare – &lt;br&gt;&amp;nbsp; moderate chronic pneumonia + &lt;br&gt;&amp;nbsp; wheeze&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;• Q fever; Coxiella burnetti&lt;/b&gt;: exposure &lt;br&gt;&amp;nbsp; to animals and their bodily fluids; typical &lt;br&gt;&amp;nbsp; pt &quot;farmer with flu-like illness&quot;&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;→ coverage by macrolides, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;fluroquinolones or tetracyclines" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#00BBF9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="210" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-23" value="S/Smx &amp;amp; Ix – see CAP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#00BBF9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="235" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-24" value="Mx of &lt;u style=&quot;font-size: 11px;&quot;&gt;non-severe smx&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;☝🏻 &lt;b style=&quot;font-size: 11px;&quot;&gt;co-amoxiclav&lt;/b&gt; 500/120mg tds x 5d&lt;br style=&quot;font-size: 11px;&quot;&gt;✌🏻 doxycycline, cefalexin, co-&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;trimoxazole, levofloxacin&lt;br style=&quot;font-size: 11px;&quot;&gt;Mx of &lt;u style=&quot;font-size: 11px;&quot;&gt;severe smx (+sepsis)&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;→ review in 48h, consider switch to PO &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; (see non-severe) for 5d&lt;br style=&quot;font-size: 11px;&quot;&gt;☝🏻 &lt;b style=&quot;font-size: 11px;&quot;&gt;piptazo&lt;/b&gt; 4.5g tds-qds&lt;br style=&quot;font-size: 11px;&quot;&gt;✌🏻 ceftazidime, ceftriaxone, cefuroxime, &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;meropenem, levofloxacin&lt;br style=&quot;font-size: 11px;&quot;&gt;Mx of &lt;u style=&quot;font-size: 11px;&quot;&gt;MRSA&lt;/u&gt; (suspected or confirmed)&lt;br style=&quot;font-size: 11px;&quot;&gt;☝🏻 vancomycin&lt;br style=&quot;font-size: 11px;&quot;&gt;✌🏻 teicoplanin, linezolid&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#00BBF9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="265" width="210" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-25" value="HAP" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#00bbf9;fontColor=#FFFFFF;strokeColor=#00BBF9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-26" value="CAP" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#00bbf9;fontColor=#FFFFFF;strokeColor=#00bbf9;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-32" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;u style=&quot;font-size: 11px;&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;Pneumocystis jirovecii&lt;/i&gt; pneumonia&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;D: fungal lung infection typically affecting HIV pts with CD4 &amp;lt;200&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;S/Smx – HIV [smx tend to develop more insidiously] or immunocompromise&lt;br style=&quot;font-size: 11px;&quot;&gt;⨮ oropharyngeal candidiasis, fever, dry cough, ↑HR, ↑RR&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Dx/Ix – CXR, ABG, serum LDH, induced sputum and culture, &lt;b style=&quot;font-size: 11px;&quot;&gt;BAL&lt;/b&gt; (silver stain), exercise-induced desats&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Mx: &lt;b style=&quot;font-size: 11px;&quot;&gt;TMP/SMX IV/PO x 21d&lt;/b&gt;. If severe, ITU adm may be required + ventilation and corticosteroids&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Prophylaxis&lt;/b&gt; for pts CD4 &amp;lt;200: TMP/SMX – pts can be taken off prophylaxis when CD4 &amp;gt;200" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#00F5D4;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-33" value="&lt;u style=&quot;font-weight: bold; font-style: italic; font-size: 11px;&quot;&gt;Aspergillosis&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;D: fungal lung infection typically affecting immunocomp pts, typically allogenic stem cell transplantation (25%), haematologic malignancy (28%), solid organ transplant, AIDS, etc&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;A:&amp;nbsp;&lt;i style=&quot;font-size: 11px;&quot;&gt;Aspergillus spp. &lt;/i&gt;(~70% &lt;i style=&quot;font-size: 11px;&quot;&gt;A. fumigatus&lt;/i&gt;)&lt;br style=&quot;font-size: 11px;&quot;&gt;P: inhalation of spores + neutropenia and ↓CD4 (&amp;lt;100) or ↓macrophage → invasive disease&lt;br style=&quot;font-size: 11px;&quot;&gt;→ dissemination via haematogenous or via the parasinus cavity may occur, affecting many organs&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;S/Smx: cough (non-productive, mild-mod), HA, fever, congestion or sinus tenderness. 🚩pleuritic CP&lt;br style=&quot;font-size: 11px;&quot;&gt;🚩high suspicion for pts w/ prolonged neutropenia (&amp;gt;10d) + risk factors&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Ix: CXR, HRCT, other scans according to smx, sputum culture. 🤔 BAL&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Mx:&amp;nbsp;voriconazole, amphotericin B, etc&lt;br style=&quot;font-size: 11px;&quot;&gt;+ reverse underlying immunosuppression!&lt;br style=&quot;font-size: 11px;&quot;&gt;Aspergilloma – ? surgical removal&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;P: if immunosuppression can be reversed, pt usually recovers well" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#00F5D4;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="210" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-35" value="D:&amp;nbsp;an infectious disease caused by &lt;i style=&quot;font-size: 11px;&quot;&gt;Mycobacterium tuberculosis&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="70" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-36" value="R: prolonged exposure, birth in endemic country (Asia, Latin America, Africa), HIV and immunosupp [reactivation], silicosis apical fibrosis, etc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="110" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-37" value="A/P: 1. Inhalation of TB&lt;br style=&quot;font-size: 11px;&quot;&gt;2. Engulfed by alveolar &lt;br&gt;&amp;nbsp; &amp;nbsp; macrophages&lt;br style=&quot;font-size: 11px;&quot;&gt;3. Survive, multiply in macrophages&lt;br style=&quot;font-size: 11px;&quot;&gt;4. Kill macrophages → released&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;5. Migration to regional lymph nodes&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; ↳ affected LN + lesion = Ghon&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt;         &lt;/span&gt;complex&lt;br style=&quot;font-size: 11px;&quot;&gt;6. TH1 response → &lt;span style=&quot;background-color: rgb(102, 255, 255); font-size: 11px;&quot;&gt;granuloma&lt;/span&gt;&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;↳ Type 4 hypersensitivity&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;↳ central &lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(102, 255, 255);&quot;&gt;caseous, necrotic &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(102, 255, 255); font-size: 11px;&quot;&gt;material&lt;/span&gt;&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;↳ peripheral granulation tissue&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt;        &lt;/span&gt;(macrophages, lymphocytes)&lt;br style=&quot;font-size: 11px;&quot;&gt;=&amp;gt; &lt;span style=&quot;background-color: rgb(102, 255, 255); font-size: 11px;&quot;&gt;latent&lt;/span&gt; infxn, non-infectious, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;normal &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;CXR, tuberculin skin +ve&lt;br style=&quot;font-size: 11px;&quot;&gt;7. &lt;span style=&quot;background-color: rgb(255, 199, 199); font-size: 11px;&quot;&gt;Reactivation&lt;/span&gt; ∵ &lt;br&gt;&amp;nbsp; &amp;nbsp; immunosuppression&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;↳ disseminated (miliary) TB&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="190" width="190" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-38" value="S/Smx: cough, fatigue, wt loss, night sweats, haemoptysis, clubbing, etc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="470" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-39" value="Dx of &lt;b style=&quot;font-size: 11px;&quot;&gt;latent TB&lt;/b&gt; – Mantoux test&lt;br style=&quot;font-size: 11px;&quot;&gt;•&amp;nbsp;0.1 ml of 1:1,000 purified protein &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; derivative (PPD) injected intradermally&lt;br style=&quot;font-size: 11px;&quot;&gt;• result read 2-3d later&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;lt;6mm: -ve (no rxn), give BCG if &lt;br&gt;&amp;nbsp; unvaccinated&lt;br style=&quot;font-size: 11px;&quot;&gt;6-15mm: previous BCG or TB infxn; &lt;br&gt;&amp;nbsp; do not give BCG&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;gt;15mm: +ve; suggests TB infxn&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;False -ve: miliary TB, sarcoidosis, HIV, lymphoma, &amp;lt;6mo&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; → IFN-ɣ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="510" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-40" value="Dx of &lt;b style=&quot;font-size: 11px;&quot;&gt;active TB&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• &lt;b style=&quot;font-size: 11px;&quot;&gt;CXR&lt;/b&gt;: upper lobe cavitation, bilateral &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; hilar lymphadenopathy&lt;br style=&quot;font-size: 11px;&quot;&gt;• Sputum smear&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↳ 3 samples, stained acid-fast&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↳ sens 50-80%; ↓ in HIV (20-30%)&lt;br style=&quot;font-size: 11px;&quot;&gt;• &lt;b style=&quot;font-size: 11px;&quot;&gt;Sputum culture&lt;/b&gt; [gold standard]&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↳ 1-3w in liquid media, longer in &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; solid&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↳ can assess drug sens too&lt;br style=&quot;font-size: 11px;&quot;&gt;• &lt;b style=&quot;font-size: 11px;&quot;&gt;NAAT&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↳ rapid Dx (w/in 48h)&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; ↳ more sens than smear, less sens &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;than culture" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="940" y="40" width="190" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-41" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;Mx of active TB&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 231, 246); font-size: 11px;&quot;&gt;RIPE 4 for 2, 2 for 4&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• rifampin &amp;amp; isoniazid for 6mo&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;↳ with pyridoxine (B6)&lt;br style=&quot;font-size: 11px;&quot;&gt;• pyrazinamide &amp;amp; ethambutol for 2mo&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;u style=&quot;font-size: 11px;&quot;&gt;Mx of latent TB&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• rifampicin + isoniazid for 3mo&lt;br style=&quot;font-size: 11px;&quot;&gt;• OR isoniazid for 6mo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="940" y="255" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-42" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;DRUGS adverse effects&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Rifampicin&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Liver enzyme inducer&lt;br style=&quot;font-size: 11px;&quot;&gt;• Red pee&lt;span style=&quot;font-size: 11px;&quot;&gt; &lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;• Hepatotoxicity&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Isoniazid&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Peripheral neuropathy (B6!!)&lt;br style=&quot;font-size: 11px;&quot;&gt;•&amp;nbsp;Agranulocytosis &lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• Hepatotoxicity&lt;br style=&quot;font-size: 11px;&quot;&gt;• Liver enzyme inhibitor&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Pyrazinamide&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Hyperuricemia causing gout&lt;br style=&quot;font-size: 11px;&quot;&gt;• Athralgia, myalgia&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• Hepatotoxicity&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Ethambutol&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Optic neuritis: check visual acuity &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;before, during tx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="940" y="390" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-43" value="&lt;u style=&quot;font-size: 11px;&quot;&gt;Secondary / extra-pulmonary TB&lt;/u&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Tuberculous meningitis (CNS)&lt;br style=&quot;font-size: 11px;&quot;&gt;• Potts disease (vertebral bodies)&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Scrofuloderma (cervical LN)&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;• Renal&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• GI&amp;nbsp;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 11px;&quot;&gt; &lt;/span&gt;• anywhere&lt;br style=&quot;font-size: 11px;&quot;&gt;• Disseminated TB (multiple organs) – haematogenous spread&lt;br style=&quot;font-size: 11px;&quot;&gt;Higher mortality than pulmonary TB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelPadding=0;noLabel=0;spacing=5;align=left;verticalAlign=top;spacingTop=-8;labelBackgroundColor=none;strokeColor=#9673A6;" vertex="1" parent="1">
+          <mxGeometry x="940" y="590" width="190" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-45" value="Tuberculosis" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#540d6e;fontColor=#FFFFFF;strokeColor=#540D6E;" vertex="1" parent="1">
+          <mxGeometry x="740" y="40" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-47" value="Pre-pregnancy counselling" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#ffd23f;fontColor=#000000;strokeColor=#ffd23f;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1020" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-48" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Immunisation: rubella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#ffd23f;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1050" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-49" value="Pre-pregnancy counselling" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#ee4266;fontColor=#FFFFFF;strokeColor=#ee4266;container=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="940" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-50" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Immunisation: rubella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#ee4266;" vertex="1" parent="1">
+          <mxGeometry x="760" y="970" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-51" value="Pre-pregnancy counselling" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#3bceac;fontColor=#000000;strokeColor=#3bceac;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1100" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-52" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Immunisation: rubella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#3bceac;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1130" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-53" value="Pre-pregnancy counselling" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#9b5de5;fontColor=#FFFFFF;strokeColor=#9b5de5;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1260" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-54" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Immunisation: rubella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#9b5de5;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1290" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-55" value="Pre-pregnancy counselling" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#0ead69;fontColor=#FFFFFF;strokeColor=#0ead69;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1180" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-56" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Immunisation: rubella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#0ead69;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1210" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-57" value="Pre-pregnancy counselling" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#00bbf9;fontColor=#FFFFFF;strokeColor=#00bbf9;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1420" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-58" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Immunisation: rubella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#00bbf9;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1450" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-59" value="Pre-pregnancy counselling" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#f15bb5;fontColor=#FFFFFF;strokeColor=#f15bb5;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1340" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-60" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Immunisation: rubella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#f15bb5;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1370" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-61" value="Pre-pregnancy counselling" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;fontStyle=1;align=left;spacing=5;fillColor=#00f5d4;fontColor=#000000;strokeColor=#00f5d4;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1500" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wi6hb8kR9m5PA-Uml8-62" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Immunisation: rubella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-7;spacing=5;align=left;verticalAlign=top;fontSize=11;strokeColor=#00f5d4;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1530" width="190" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dmdqGSRuIpfECpW_a4mk" name="random">
+    <mxGraphModel dx="1095" dy="674" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2zh8jBSJfKitzomMzvb2-11" value="Sarcoidosis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673A6;align=left;spacingLeft=2;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-12" value="D: &lt;b style=&quot;font-size: 11px;&quot;&gt;chronic granulomatous disorder&lt;/b&gt; of unknown aetiology, commonly affecting the lungs, skin, and eyes&lt;br style=&quot;font-size: 11px;&quot;&gt;Characterised by accumulation of lymphocytes and macrophages and the formation of &lt;b style=&quot;font-size: 11px;&quot;&gt;non-caseating granulomas &lt;/b&gt;in the lungs and other organs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#9673A6;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-13" value="R: age 20-40, FHx, Scandinavian origin. F&amp;gt;M, non-smokers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#9673A6;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-14" value="S/smx: cough, dyspnea + other respi smx; athralgia, lymphadenopathy, eye smx (photophobia, red painful eye, blurred vision)&lt;br style=&quot;font-size: 11px;&quot;&gt;* &lt;b style=&quot;font-size: 11px;&quot;&gt;erythema nodosum&lt;/b&gt; (painful lesions on shins of legs - good prognosis)&lt;br style=&quot;font-size: 11px;&quot;&gt;* &lt;b style=&quot;font-size: 11px;&quot;&gt;lupus pernio&lt;/b&gt; - indurated plaques with discolouration on face; more common in black women - poor prognosis)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#9673A6;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-15" value="Ix:&amp;nbsp;&lt;b style=&quot;font-size: 11px;&quot;&gt;CXR &lt;/b&gt;- stage 0 = normal&lt;br style=&quot;font-size: 11px;&quot;&gt;1 = bilateral hilar lymphadenopathy&lt;br style=&quot;font-size: 11px;&quot;&gt;2 = BHL + interstitial infiltrates&lt;br style=&quot;font-size: 11px;&quot;&gt;3 = diffuse interstitial infiltrates only&lt;br style=&quot;font-size: 11px;&quot;&gt;4 = diffuse fibrosis&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Spirometry &lt;/b&gt;(restrictive pattern), &lt;b style=&quot;font-size: 11px;&quot;&gt;tissue biopsy&lt;/b&gt; (non-caseating granulomas), &lt;b style=&quot;font-size: 11px;&quot;&gt;bloods &lt;/b&gt;(ACE ↑60%,&amp;nbsp;↑Ca,&amp;nbsp; ↑ESR)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#9673A6;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-16" value="Mx: &lt;b&gt;Most pts get better with no tx&lt;/b&gt;&lt;br&gt;Steroids - indications: CXR stage 2-3 + smx (if asmx, don&#39;t treat); &lt;span style=&quot;background-color: rgb(212, 225, 245); font-size: 11px;&quot;&gt;hyperCa&lt;/span&gt;; eye, heart or neuro involvement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#9673A6;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="525" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-17" value="P: poor prognosis a/w insidious onset, smx &amp;gt;6mo, absence of erythema nodosum, extrapulmonary manifestations (e.g. lupus pernio, splenomegaly), CXR stage 3-4, black ethnicity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#9673A6;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="595" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-18" value="Pneumothorax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#B85450;align=left;spacingLeft=2;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-19" value="D: air within the pleural space&lt;br&gt;– 1&#39;:&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;occurs in people with no known &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;respiratory illness&lt;br&gt;– 2&#39;:&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;pre-existing respi illness&lt;br&gt;– tension: usually 2/2 trauma" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-20" value="R: smoking,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;pre-existing lung disease (COPD, asthma, CF, lung cancer, PJP), Marfan&#39;s (M&amp;gt;F, young)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, RA, ventilation (incl non-invasive)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;A/P: spontaneous, trauma, iatrogenic, lung pathologies&lt;br&gt;&lt;/span&gt;&lt;div&gt;* catamenial pneumothorax – 3-6% of spontaneous pnt in menstruating F; 2/2 endometriosis w/in the thorax&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-22" value="S/smx: SOB, CP (often pleuritic), sweating, ↑HR, ↑RR&amp;nbsp;&lt;br&gt;** In tension pnt: ↓ breath sounds, tracheal tug (rare)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-23" value="Ix: CXR. If tension pnt is suspected, go to Mx immediately!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.325;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-28" target="2zh8jBSJfKitzomMzvb2-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-25" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="2zh8jBSJfKitzomMzvb2-24">
+          <mxGeometry x="-0.1184" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-28" target="2zh8jBSJfKitzomMzvb2-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-27" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="2zh8jBSJfKitzomMzvb2-26">
+          <mxGeometry x="-0.0002" y="-1" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-28" value="Rim of air &lt;b&gt;&amp;lt;2cm&lt;/b&gt;&lt;br&gt;AND &lt;b&gt;no SOB&lt;/b&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;dashed=1;fillColor=#FFEEED;" vertex="1" parent="1">
+          <mxGeometry x="260" y="494" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-29" value="&amp;nbsp;no tx&lt;br&gt;f/u in 2-4w" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="569" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#B85450;fontSize=11;endArrow=block;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-32" target="2zh8jBSJfKitzomMzvb2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-31" value="if rim still &amp;gt;1cm&lt;font style=&quot;font-size: 10px;&quot;&gt; (ie failure to resolve)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="2zh8jBSJfKitzomMzvb2-30">
+          <mxGeometry x="-0.2274" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-32" value="attempt aspiration&lt;br&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;admit for 24h&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="335" y="569" width="65" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-37" target="2zh8jBSJfKitzomMzvb2-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-34" value="yes&lt;br&gt;i.e. 2&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="2zh8jBSJfKitzomMzvb2-33">
+          <mxGeometry x="-0.0357" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.471;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-37" target="2zh8jBSJfKitzomMzvb2-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-36" value="no, i.e 1&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="2zh8jBSJfKitzomMzvb2-35">
+          <mxGeometry x="0.1879" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-37" value="Is there an underlying respiratory disorder?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="434" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-43" target="2zh8jBSJfKitzomMzvb2-50">
+          <mxGeometry x="-0.0498" y="-6" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="479" />
+              <mxPoint x="520" y="529" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-43" target="2zh8jBSJfKitzomMzvb2-45">
+          <mxGeometry x="-0.1546" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="479" />
+              <mxPoint x="520" y="569" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-40" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="2zh8jBSJfKitzomMzvb2-39">
+          <mxGeometry x="-0.6274" y="-1" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-43" target="2zh8jBSJfKitzomMzvb2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-42" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="2zh8jBSJfKitzomMzvb2-41">
+          <mxGeometry x="0.3679" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-43" value="&lt;b&gt;&amp;gt;50yo&lt;/b&gt;&lt;br&gt;&amp;amp;/or rim &lt;b&gt;&amp;gt;2cm&lt;/b&gt;&lt;br&gt;&amp;amp;/or &lt;b&gt;SOB&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;perimeterSpacing=0;dashed=1;fillColor=#FFEEED;" vertex="1" parent="1">
+          <mxGeometry x="440" y="434" width="85" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.174;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-45" target="2zh8jBSJfKitzomMzvb2-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-45" value="Rim of air &lt;b&gt;&amp;lt;1cm&lt;/b&gt; AND no SOB?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;dashed=1;fillColor=#FFEEED;" vertex="1" parent="1">
+          <mxGeometry x="410" y="554" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#B85450;endArrow=block;endFill=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-47" target="2zh8jBSJfKitzomMzvb2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-47" value="insert chest drain" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="545" y="514" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#B85450;fontSize=11;endArrow=blockThin;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2zh8jBSJfKitzomMzvb2-50" target="2zh8jBSJfKitzomMzvb2-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-49" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="2zh8jBSJfKitzomMzvb2-48">
+          <mxGeometry x="-0.6251" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-50" value="Rim of air &lt;b&gt;1-2cm&lt;/b&gt;&lt;br&gt;AND no SOB?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;dashed=1;fillColor=#FFEEED;" vertex="1" parent="1">
+          <mxGeometry x="400" y="514" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-51" value="administer O2, &lt;font style=&quot;font-size: 10px;&quot;&gt;admit for 24h&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="410" y="599" width="145" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-52" value="Mx of spontaneous pneumothorax" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;spacing=0;spacingTop=-5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="414" width="175" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-53" value="Mx (see below)&lt;br&gt;• &lt;b&gt;Aspiration&lt;/b&gt; = insertion of fine &lt;br&gt;&amp;nbsp; needle (14G) into 2IC space at &lt;br&gt;&amp;nbsp; mid-clavicular line&lt;br&gt;• Chest drain = insertion of large &lt;br&gt;&amp;nbsp; drain into incision at the safe ∆&lt;br&gt;&amp;nbsp; ↳ external end placed under water&lt;br&gt;&amp;nbsp; ↳&amp;nbsp;air will exit and bubble through&lt;br&gt;&amp;nbsp; ↳&amp;nbsp;swinging should be seen due to &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;respiration&lt;br&gt;&amp;nbsp; ↳&amp;nbsp;Comp: air leaks (persistent &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;bubbling on coughing), surgical &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;emphysema&lt;br&gt;• Surgical methods&lt;br&gt;&amp;nbsp; –&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Abrasive pleurodesis (using direct &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;physical irritation of the pleura)&lt;br&gt;&amp;nbsp; –&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Chemical pleurodesis (chemicals, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;eg talc, used to irritate the pleura)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&amp;nbsp; – Pleurectomy (removal of the&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;pleura)&lt;/div&gt;&lt;div&gt;• D/c advice&lt;/div&gt;&lt;div&gt;&amp;nbsp; – stop smoking&lt;/div&gt;&lt;div&gt;&amp;nbsp; – only fly 2w after successful&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;drainage or 1w post XR clear&lt;/div&gt;&lt;div&gt;&amp;nbsp; – permanently avoid diving unless&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;complete resolution&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="460" y="70" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-54" value="Mx of tension pneumothorax: large bore cannula into the 2IC space at mid-clavicular line → once pressure is relieved, insert chest drain" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="655" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-55" value="If still no resolution, ref for &lt;br&gt;• video-assisted thorascopic surgery&lt;br&gt;• mechanical / chemical &lt;br&gt;&amp;nbsp; pleurodesis&amp;nbsp;± bullectomy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#B85450;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="640" y="499" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-56" value="Pleural effusions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#D6B656;align=left;spacingLeft=2;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-57" value="&lt;b&gt;&lt;u&gt;Transudate &amp;lt;30 g/L&lt;/u&gt;&lt;/b&gt;&lt;br&gt;• Heart failure&lt;br&gt;• Hypoalbunaemia&lt;br&gt;• Hypothyroidism&lt;br&gt;• Meig&#39;s: benign &lt;br&gt;&amp;nbsp; ovarian tumour&lt;br&gt;&amp;nbsp; + ascites" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#D6B656;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="2zh8jBSJfKitzomMzvb2-58" value="&lt;b&gt;&lt;u&gt;Exudate &amp;gt;30 g/L&lt;/u&gt;&lt;/b&gt;&lt;br&gt;• Infection&lt;br&gt;• Connective tissue &lt;br&gt;&amp;nbsp; disease: RA, SLE&lt;br&gt;• Neoplasm&lt;br&gt;• Pancreatitis&lt;br&gt;• PE&lt;br&gt;• Dressler&#39;s syndrome&lt;br&gt;• Yellow nail syndrome" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;verticalAlign=top;spacingTop=-7;spacingLeft=0;strokeColor=#D6B656;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="680" y="175" width="120" height="125" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
